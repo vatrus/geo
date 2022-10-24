@@ -1,0 +1,13 @@
+.env.*.php
+.env.php
+.env
+
+# My local rules
+.cache/
+.config/
+.git/
+.idea/
+.local/
+.ssh/
+.bash_history
+.selected_editor
